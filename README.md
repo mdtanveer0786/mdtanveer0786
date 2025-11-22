@@ -1,20 +1,67 @@
-<h1 align="center">Hi 👋, I'm Md Tanveer Alam</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hey, I'm Tanveer! 👋</h1>
 
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*OxT7UjIwhklKE8d8SFyo7g.gif">
+## About Me
 
-- 🌱 I’m currently learning **full stack developer from https://course.acciojob.com/**
+- 🧑🏻‍💻 Full Stack Web Developer
 
-- 📫 How to reach me **mdtanveer7725@gmail.com**
+- 🎓 B.Tech Student passionate about technology and innovation
 
-- ⚡ Fun fact **I am funny coder😍**
+- 💻 Self-taught Developer who loves building and breaking things to learn
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href=https://www.linkedin.com/in/md-tanveer-b7a134219/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-tanveer" height="30" width="40" /></a>
-</p>
+- 🎮 Gaming Enthusiast with a love for competitive and story-driven titles
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+- 📝 Blogger sharing tech tips, guides, and personal learnings
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdtanveer0786&show_icons=true&locale=en&layout=compact" alt="mdtanveer0786" /></p>
+- 🚀 Open-source Contributor exploring real-world projects and collaboration
+
+I'm enhancing my coding skills alongside my studies. I create solutions tailored to specific needs and enjoy sharing my knowledge online.
+
+## Highlights 🌟
+- 🔭 Currently working on "[Full Stack Developer](https://course.acciojob.com/)"
+- 🌱 Learning: *Bootstrap* | *Mongodb*
+- 👯 Open to collaboration on project
+- 📧 Reach me at [enquiryinto@gmail.com](mailto:enquiryinto@gmail.com) (💬 Ask me about my blogs or tech topics)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I’m usually found working or exploring something on my device!
+
+## Connect with Me ^_^
+[<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/_sheikh_tanveer77/)
+[<img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/md-tanveer-alam-b7a134219/)
+[<img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://myportfolio-md.netlify.app/)
+
+
+## Tech Stack 🚀
+[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)]()
+[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)]()
+[![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)]()
+[![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)]()
+[![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)]()
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)]()
+
+
+## Tools I Use ✨
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
+[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)]()
+[![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=F05032)]()
+[![GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=000000)]()
+
+
+## My Recent Projects ⌅
+- Here’s my project: [My Recent Project](https://myportfolio-md.netlify.app/)
+
+
+## My Recent Blogs 📚
+- Will update it soon. (Currently, the web links are not available.)
+
+
+## My GitHub Stats 😎
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mdtanveer0786)](https://github.com/mdtanveer0786/github-readme-stats)
+[![My github streak](https://github-readme-streak-stats.herokuapp.com/?user=mdtanveer0786&theme=blue-green)](https://github.com/mdtanveer0786/github-readme-streak-stats)
+
+
+[![My github trophy](https://github-profile-trophy.vercel.app/?username=mdtanveer0786&row=1)](https://github.com/itsvijaysingh/github-profile-trophy)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdtanveer0786)](https://github.com/mdtanveer0786/github-readme-stats)
