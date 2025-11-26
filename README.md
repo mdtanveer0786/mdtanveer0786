@@ -48,7 +48,7 @@ I'm enhancing my coding skills alongside my studies. I create solutions tailored
 
 
 ## My Recent Projects ⌅
-- Here’s my project: [My Recent Project]([https://mdtanveeralam.vercel.app/])
+- Here’s my project: [My Recent Project](https://mdtanveeralam.vercel.app/)
 
 
 ## My Recent Blogs 📚
