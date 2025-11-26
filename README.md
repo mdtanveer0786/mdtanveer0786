@@ -17,7 +17,7 @@
 I'm enhancing my coding skills alongside my studies. I create solutions tailored to specific needs and enjoy sharing my knowledge online.
 
 ## Highlights 🌟
-- 🔭 Currently working on "[Full Stack Developer](https://course.acciojob.com/)"
+- 🔭 Currently working on Full Stack Developer
 - 🌱 Learning: *Bootstrap* | *Mongodb*
 - 👯 Open to collaboration on project
 - 📧 Reach me at [enquiryinto@gmail.com](mailto:enquiryinto@gmail.com) (💬 Ask me about my blogs or tech topics)
@@ -48,7 +48,7 @@ I'm enhancing my coding skills alongside my studies. I create solutions tailored
 
 
 ## My Recent Projects ⌅
-- Here’s my project: [My Recent Project](https://myportfolio-md.netlify.app/)
+- Here’s my project: [My Recent Project]([https://mdtanveeralam.vercel.app/])
 
 
 ## My Recent Blogs 📚
