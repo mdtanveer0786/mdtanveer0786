@@ -20,7 +20,7 @@ I'm enhancing my coding skills alongside my studies. I create solutions tailored
 - 🔭 Currently working on Full Stack Developer
 - 🌱 Learning: *Bootstrap* | *Mongodb*
 - 👯 Open to collaboration on project
-- 📧 Reach me at [enquiryinto@gmail.com](mailto:enquiryinto@gmail.com) (💬 Ask me about my blogs or tech topics)
+- 📧 Reach me at [mdtanveerdev14@gmail.com](mailto:mdtanveerdev14@gmail.com) (💬 Ask me about my blogs or tech topics)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I’m usually found working or exploring something on my device!
 
