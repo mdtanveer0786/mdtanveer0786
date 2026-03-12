@@ -1,67 +1,144 @@
-<h1 align="center">Hey, I'm Tanveer! 👋</h1>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,50:26d0ce,100:1a2980&height=220&section=header&text=Md%20Tanveer%20Alam&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
-## About Me
+<h1 align="center">Hi 👋, I'm Md Tanveer Alam</h1>
+<h3 align="center">Full Stack MERN Developer 🚀</h3>
 
-- 🧑🏻‍💻 Full Stack Web Developer
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Developer;Open+Source+Contributor;Building+Real+World+Projects"/>
+</p>
 
-- 🎓 B.Tech Student passionate about technology and innovation
+<p align="center">
+<a href="https://mdtanveeralamdev.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-black?style=for-the-badge&logo=vercel">
+</a>
+</p>
 
-- 💻 Self-taught Developer who loves building and breaking things to learn
+---
 
-- 🎮 Gaming Enthusiast with a love for competitive and story-driven titles
+# 👨‍💻 About Me
 
-- 📝 Blogger sharing tech tips, guides, and personal learnings
+* 🚀 Full Stack MERN Developer
+* 🎓 B.Tech Graduate passionate about technology
+* 💻 Self-taught developer who loves building real world applications
+* 🌱 Currently learning advanced backend architecture
+* 🌍 Interested in Web Apps, SaaS, and AI tools
+* 📫 Email: **[mdtanveerdev14@gmail.com](mailto:mdtanveerdev14@gmail.com)**
 
-- 🚀 Open-source Contributor exploring real-world projects and collaboration
+---
 
-I'm enhancing my coding skills alongside my studies. I create solutions tailored to specific needs and enjoy sharing my knowledge online.
+# 🧠 Skills
 
-## Highlights 🌟
-- 🔭 Currently working on Full Stack Developer
-- 🌱 Learning: *Bootstrap* | *Mongodb*
-- 👯 Open to collaboration on project
-- 📧 Reach me at [mdtanveerdev14@gmail.com](mailto:mdtanveerdev14@gmail.com) (💬 Ask me about my blogs or tech topics)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I’m usually found working or exploring something on my device!
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,bootstrap"/>
+</p>
 
-## Connect with Me ^_^
-[<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/_sheikh_tanveer77/)
-[<img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/md-tanveer-alam-b7a134219/)
-[<img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://myportfolio-md.netlify.app/)
+---
 
+# 🚀 Featured Projects
 
-## Tech Stack 🚀
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)]()
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)]()
-[![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)]()
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)]()
-[![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)]()
-[![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)]()
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)]()
+## 🏡 Real Estate Elite
 
+Full-stack MERN real estate platform where users can explore properties and manage listings.
 
-## Tools I Use ✨
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
-[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)]()
-[![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=F05032)]()
-[![GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=000000)]()
+**Tech Stack**
 
+React • Node.js • Express • MongoDB • Cloudinary
 
-## My Recent Projects ⌅
-- Here’s my project: [My Recent Project](https://mdtanveeralam.vercel.app/)
+🔗 Live Demo
+https://real-estateelite.vercel.app/
 
+---
 
-## My Recent Blogs 📚
-- Will update it soon. (Currently, the web links are not available.)
+## 📊 Trade Analyzer Pro
 
+Trading analytics dashboard used to track trading performance and analyze data.
 
-## My GitHub Stats 😎
+**Tech Stack**
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mdtanveer0786)](https://github.com/mdtanveer0786/github-readme-stats)
-[![My github streak](https://github-readme-streak-stats.herokuapp.com/?user=mdtanveer0786&theme=blue-green)](https://github.com/mdtanveer0786/github-readme-streak-stats)
+React • Node.js • Express • MongoDB
 
+🔗 Live Demo
+https://trade-analyzer-proo.vercel.app/
 
-[![My github trophy](https://github-profile-trophy.vercel.app/?username=mdtanveer0786&row=1)](https://github.com/itsvijaysingh/github-profile-trophy)
+---
 
+# 🌐 Portfolio
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdtanveer0786)](https://github.com/mdtanveer0786/github-readme-stats)
+Visit my personal developer portfolio:
+
+🔗 https://mdtanveeralamdev.vercel.app/
+
+---
+
+# 🏆 Achievements
+
+🚀 Built multiple full stack applications
+🔐 Implemented authentication using JWT
+☁️ Deployed applications using Vercel
+📦 Developed scalable REST APIs
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mdtanveer0786&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mdtanveer0786&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdtanveer0786&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 GitHub Activity Graph
+
+[![Tanveer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mdtanveer0786\&theme=react-dark)](https://github.com/mdtanveer0786)
+
+---
+
+# 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mdtanveer0786\&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/mdtanveer0786/mdtanveer0786/output/snake.svg"/>
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=mdtanveer0786&label=Profile%20views&color=0e75b6&style=flat"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<a href="https://www.linkedin.com/in/md-tanveer-alam-b7a134219/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://www.instagram.com/_sheikh_tanveer77/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+---
+
+# 💡 Developer Quote
+
+“First solve the problem. Then write the code.”
+
+---
+
+⭐ If you like my work, consider giving a star to my repositories.
