@@ -28,10 +28,29 @@
 
 ---
 
+# 👨‍💻 Coding Mode
+
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</p>
+
+---
+
 # 🧠 Skills
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,bootstrap"/>
+</p>
+
+---
+
+# ⚙️ Technologies I Work With
+
+<p align="center">
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50"/>
 </p>
 
 ---
@@ -42,8 +61,7 @@
 
 Full-stack MERN real estate platform where users can explore properties and manage listings.
 
-**Tech Stack**
-
+Tech Stack
 React • Node.js • Express • MongoDB • Cloudinary
 
 🔗 Live Demo
@@ -55,8 +73,7 @@ https://real-estateelite.vercel.app/
 
 Trading analytics dashboard used to track trading performance and analyze data.
 
-**Tech Stack**
-
+Tech Stack
 React • Node.js • Express • MongoDB
 
 🔗 Live Demo
@@ -66,7 +83,7 @@ https://trade-analyzer-proo.vercel.app/
 
 # 🌐 Portfolio
 
-Visit my personal developer portfolio:
+Visit my personal developer portfolio
 
 🔗 https://mdtanveeralamdev.vercel.app/
 
@@ -78,6 +95,40 @@ Visit my personal developer portfolio:
 🔐 Implemented authentication using JWT
 ☁️ Deployed applications using Vercel
 📦 Developed scalable REST APIs
+
+---
+
+# 📚 Currently Learning
+
+* Advanced Node.js architecture
+* Scalable backend systems
+* System design fundamentals
+* AI integration with web applications
+
+---
+
+# 🎯 2026 Goals
+
+* Build 5 production level SaaS applications
+* Contribute to open source projects
+* Improve backend architecture skills
+* Master full stack system design
+
+---
+
+# 🌍 Open Source Contributions
+
+* Bug fixing
+* Feature improvements
+* Documentation updates
+
+---
+
+# ⚡ Fun Facts
+
+* I love building real world applications
+* I enjoy learning by building projects
+* I spend most of my time exploring new technologies
 
 ---
 
@@ -104,6 +155,12 @@ Visit my personal developer portfolio:
 # 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mdtanveer0786\&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+# 📊 Developer Metrics
+
+<img src="https://metrics.lecoq.io/mdtanveer0786"/>
 
 ---
 
@@ -141,4 +198,6 @@ Visit my personal developer portfolio:
 
 ---
 
-⭐ If you like my work, consider giving a star to my repositories.
+# ❤️ Support My Work
+
+If you like my work, consider giving ⭐ to my repositories.
