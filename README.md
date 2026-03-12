@@ -31,7 +31,7 @@
 # 👨‍💻 Coding Mode
 
 <p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
 </p>
 
 ---
@@ -47,10 +47,11 @@
 # ⚙️ Technologies I Work With
 
 <p align="center">
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
 </p>
 
 ---
@@ -155,12 +156,6 @@ Visit my personal developer portfolio
 # 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mdtanveer0786\&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-# 📊 Developer Metrics
-
-<img src="https://metrics.lecoq.io/mdtanveer0786"/>
 
 ---
 
