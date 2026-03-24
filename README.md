@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,50:26d0ce,100:1a2980&height=220&section=header&text=Md%20Tanveer%20Alam&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Md Tanveer Alam</h1>
+<h1 align="center">Hi 👋, I'm Md Tanveer Alam </h1>
 <h3 align="center">Full Stack MERN Developer 🚀</h3>
 
 <p align="center">
