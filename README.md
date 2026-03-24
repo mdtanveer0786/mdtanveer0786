@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Md Tanveer Alam </h1>
-<h3 align="center">Full Stack MERN Developer 🚀</h3>
+<h3 align="center">Full Stack MERN Developer 🚀 </h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Developer;Open+Source+Contributor;Building+Real+World+Projects"/>
