@@ -2,8 +2,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,50:26d0ce,100:1a2980&height=220&section=header&text=Md%20Tanveer%20Alam&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Md Tanveer Alam</h1>
-<h3 align="center">Full Stack MERN Developer 🚀</h3>
+<h1 align="center">Hi 👋, I'm Md Tanveer Alam </h1>
+<h3 align="center">Full Stack MERN Developer 🚀 </h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Developer;Open+Source+Contributor;Building+Real+World+Projects"/>
