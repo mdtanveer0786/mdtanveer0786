@@ -28,10 +28,14 @@
 
 ---
 
-## ⚡ Coding Mode
+## ☕ Coding Mode
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="350"/>
+</p>
+
+<p align="center">
+  💻 Turning ideas into scalable web apps 🚀
 </p>
 
 ---
