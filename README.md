@@ -15,11 +15,11 @@
 </p>
 
 <p align="center">
-  <a href="#-about-me"><b>About Me</b></a> • 
-  <a href="#-tech-stack"><b>Tech Stack</b></a> • 
-  <a href="#-featured-projects"><b>Featured Projects</b></a> • 
-  <a href="#-github-stats"><b>GitHub Insights</b></a> • 
-  <a href="#-connect-with-me"><b>Connect</b></a>
+  <a href="#about-me"><b>About Me</b></a> • 
+  <a href="#tech-stack"><b>Tech Stack</b></a> • 
+  <a href="#featured-projects"><b>Featured Projects</b></a> • 
+  <a href="#github-stats"><b>GitHub Insights</b></a> • 
+  <a href="#connect"><b>Connect</b></a>
 </p>
 
 <p align="center">
@@ -32,6 +32,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a68da5cb0.gif" width="100%" height="8px">
 </p>
 
+<a name="about-me"></a>
 ## 👨‍💻 About Me
 
 <table width="100%" border="0" cellpadding="10">
@@ -57,6 +58,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a68da5cb0.gif" width="100%" height="8px">
 </p>
 
+<a name="tech-stack"></a>
 ## 🧠 Tech Stack & Skills
 
 <table align="center" width="100%">
@@ -120,6 +122,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a68da5cb0.gif" width="100%" height="8px">
 </p>
 
+<a name="featured-projects"></a>
 ## 🚀 Featured Projects
 
 <table align="center" width="100%">
@@ -133,7 +136,8 @@
         </p>
         <p align="left">A modern, high-performance Android WebView template and on-demand Node.js web compiler that builds native Android APKs dynamically from responsive websites.</p>
         <br>
-        <a href="https://huggingface.co/spaces/tsheikh77/web-to-apk-compiler" target="_blank"><b>Live Demo 🌐</b></a>
+        <a href="https://huggingface.co/spaces/tsheikh77/web-to-apk-compiler" target="_blank"><b>Live Demo 🌐</b></a>&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://github.com/mdtanveer0786/web-to-apk" target="_blank"><b>Source Code 📂</b></a>
       </div>
     </td>
     <td width="50%" valign="top">
@@ -145,7 +149,8 @@
         </p>
         <p align="left">Multi-tenant enterprise parking system featuring real-time socket.io alerts, PWA offline capabilities, advanced Recharts analytics, and touch-optimized operator booths.</p>
         <br>
-        <a href="https://park-flow-saas.vercel.app/" target="_blank"><b>Live Demo 🌐</b></a>
+        <a href="https://park-flow-saas.vercel.app/" target="_blank"><b>Live Demo 🌐</b></a>&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://github.com/mdtanveer0786/ParkFlow_SaaS" target="_blank"><b>Source Code 📂</b></a>
       </div>
     </td>
   </tr>
@@ -159,7 +164,8 @@
         </p>
         <p align="left">Luggage and locker management platform with multi-tenant branch routing, crypto-secure QR token validation, background SMS alerts, and Razorpay integration.</p>
         <br>
-        <a href="https://safedrop-ai.vercel.app/" target="_blank"><b>Live Demo 🌐</b></a>
+        <a href="https://safedrop-ai.vercel.app/" target="_blank"><b>Live Demo 🌐</b></a>&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://github.com/mdtanveer0786/SafeDrop_AI" target="_blank"><b>Source Code 📂</b></a>
       </div>
     </td>
     <td width="50%" valign="top">
@@ -171,7 +177,8 @@
         </p>
         <p align="left">A full-stack property listing & management platform. Features robust authentication, secure Cloudinary image uploads, dynamic filtering, and a modern responsive interface.</p>
         <br>
-        <a href="https://real-estateelite.vercel.app/" target="_blank"><b>Live Demo 🌐</b></a>
+        <a href="https://real-estateelite.vercel.app/" target="_blank"><b>Live Demo 🌐</b></a>&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://github.com/mdtanveer0786/real-estate-app-fixed" target="_blank"><b>Source Code 📂</b></a>
       </div>
     </td>
   </tr>
@@ -185,7 +192,8 @@
         </p>
         <p align="left">Trading analytics and performance dashboard. Tracks user performance metrics, generates analytical insights, and visualizes historical trades for better decision-making.</p>
         <br>
-        <a href="https://trade-analyzer-proo.vercel.app/" target="_blank"><b>Live Demo 🌐</b></a>
+        <a href="https://trade-analyzer-proo.vercel.app/" target="_blank"><b>Live Demo 🌐</b></a>&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://github.com/mdtanveer0786/trade-analyzer-pro" target="_blank"><b>Source Code 📂</b></a>
       </div>
     </td>
     <td width="50%" valign="middle" align="center">
@@ -232,6 +240,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a68da5cb0.gif" width="100%" height="8px">
 </p>
 
+<a name="github-stats"></a>
 ## 📊 GitHub Stats & Insights
 
 <table align="center" width="100%">
@@ -272,6 +281,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a68da5cb0.gif" width="100%" height="8px">
 </p>
 
+<a name="connect"></a>
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -299,7 +309,7 @@
 If you like my work, consider giving a ⭐ to my repositories or supporting me!
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
+  <a href="https://www.buymeacoffee.com/mdtanveer0786" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="180"/>
   </a>
 </p>
@@ -308,6 +318,14 @@ If you like my work, consider giving a ⭐ to my repositories or supporting me!
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=26d0ce&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Keep+Building+🚀;Keep+Growing+💡"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-readme-quotes.vercel.app/api?theme=tokyonight&color=26d0ce&bg_color=0d1117" alt="Programmer Quote" width="400"/>
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" style="border: 2px solid #26d0ce; border-radius: 12px; padding: 20px; background: #0d1117;">
+      <h3 style="color: #26d0ce; margin-top: 0; margin-bottom: 10px;">💡 Developer Quote</h3>
+      <p style="font-size: 16px; font-style: italic; color: #ffffff; margin-bottom: 10px;">
+        "First, solve the problem. Then, write the code."
+      </p>
+      <p style="color: #a0aec0; margin-bottom: 0;"><b>— Developer Wisdom</b></p>
+    </td>
+  </tr>
+</table>
