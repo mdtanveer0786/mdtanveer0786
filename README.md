@@ -3,7 +3,11 @@
 </p>
 
 <p align="center">
-  🚀 <b>Full Stack MERN Developer | Building Real-World Solutions</b>
+  <img src="https://img.shields.io/github/followers/mdtanveer0786?label=FOLLOWERS&style=for-the-badge&color=26d0ce&labelColor=1a2980" />
+  &nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=mdtanveer0786&label=PROFILE%20VIEWS&color=26d0ce&style=for-the-badge&labelColor=1a2980" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/DEVELOPER-MERN%20STACK-26d0ce?style=for-the-badge&labelColor=1a2980" />
 </p>
 
 <p align="center">
@@ -11,11 +15,11 @@
 </p>
 
 <p align="center">
-  <a href="#-about-me">About Me</a> • 
-  <a href="#-tech-stack">Tech Stack</a> • 
-  <a href="#-featured-projects">Projects</a> • 
-  <a href="#-github-stats">Stats</a> • 
-  <a href="#-connect-with-me">Connect</a>
+  <a href="#-about-me"><b>About Me</b></a> • 
+  <a href="#-tech-stack"><b>Tech Stack</b></a> • 
+  <a href="#-featured-projects"><b>Featured Projects</b></a> • 
+  <a href="#-github-stats"><b>GitHub Insights</b></a> • 
+  <a href="#-connect-with-me"><b>Connect</b></a>
 </p>
 
 <p align="center">
@@ -24,14 +28,16 @@
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a68da5cb0.gif" width="100%" height="8px">
+</p>
 
 ## 👨‍💻 About Me
 
-<table width="100%">
+<table width="100%" border="0" cellpadding="10">
   <tr>
-    <td width="60%" valign="top">
-      <p>I am a passionate <b>Full Stack MERN Developer</b> specializing in creating robust, scalable, and highly interactive web applications. With a strong interest in system design and modern architecture, I love turning ideas into clean, functional code.</p>
+    <td width="55%" valign="top">
+      <p>Hey there! 👋 I am a passionate <b>Full Stack MERN Developer</b> specializing in creating robust, scalable, and high-performance web applications. With a strong foundation in system design and database security, I focus on turning complex challenges into seamless digital experiences.</p>
       <ul>
         <li>💡 <b>Interests:</b> Scalable Backend Architecture, System Design & AI-Web Integration</li>
         <li>📫 <b>Get in Touch:</b> <a href="mailto:mdtanveerdev14@gmail.com">mdtanveerdev14@gmail.com</a></li>
@@ -39,113 +45,170 @@
         <li>🔥 <b>Current Focus:</b> Master SaaS Architecture and Integration of AI Agents</li>
       </ul>
     </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="220" style="border-radius: 8px; border: 2px solid #26d0ce;"/>
+    <td width="45%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="280" style="border-radius: 12px; border: 3px solid #26d0ce; box-shadow: 0px 4px 15px rgba(38, 208, 206, 0.4);"/>
       <br>
-      <sub>💻 <i>Turning ideas into code</i></sub>
+      <sub>💻 <i>Turning ideas into scalable solutions</i></sub>
     </td>
   </tr>
 </table>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a68da5cb0.gif" width="100%" height="8px">
+</p>
 
-## 🧠 Tech Stack
+## 🧠 Tech Stack & Skills
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="25%" valign="top">
+    <td align="center" width="25%" valign="top" style="border: 1px solid #1a2980; border-radius: 8px; padding: 10px;">
       <h4>🎨 Frontend</h4>
       <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+      <p><sub>Responsive UI/UX, Component design</sub></p>
     </td>
-    <td align="center" width="25%" valign="top">
+    <td align="center" width="25%" valign="top" style="border: 1px solid #1a2980; border-radius: 8px; padding: 10px;">
       <h4>⚙️ Backend & API</h4>
-      <img src="https://skillicons.dev/icons?i=nodejs,express" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
+      <p><sub>RESTful APIs, JWT, Middleware routing</sub></p>
     </td>
-    <td align="center" width="25%" valign="top">
+    <td align="center" width="25%" valign="top" style="border: 1px solid #1a2980; border-radius: 8px; padding: 10px;">
       <h4>🗄️ Database</h4>
-      <img src="https://skillicons.dev/icons?i=mongodb" />
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+      <p><sub>Schemas, Query optimization, Indexing</sub></p>
     </td>
-    <td align="center" width="25%" valign="top">
-      <h4>🛠️ Tools & Versioning</h4>
+    <td align="center" width="25%" valign="top" style="border: 1px solid #1a2980; border-radius: 8px; padding: 10px;">
+      <h4>🛠️ Tools & DevOps</h4>
       <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+      <p><sub>Version control, Dev environments</sub></p>
     </td>
   </tr>
 </table>
 
----
+<br>
 
-## 🛠️ Interactive Developer Details
+<table width="100%">
+  <tr>
+    <td>
+      <details>
+        <summary><b>📐 Coding Setup & Gear Details (Click to Expand)</b></summary>
+        <br>
+        <ul>
+          <li>💻 <b>OS:</b> Windows 11 / WSL2 (Ubuntu Linux)</li>
+          <li>📝 <b>Editor:</b> VS Code (Tokyo Night Theme / Fira Code Font)</li>
+          <li>🔧 <b>Terminal:</b> PowerShell / Git Bash Custom Configurations</li>
+          <li>🚀 <b>Hosting/Cloud:</b> Vercel, Netlify, Render, Cloudinary</li>
+          <li>⚡ <b>API Testing:</b> Postman & Thunder Client</li>
+        </ul>
+      </details>
+    </td>
+    <td>
+      <details>
+        <summary><b>💡 Core Software Principles (Click to Expand)</b></summary>
+        <br>
+        <ul>
+          <li>🧹 <b>Clean Code:</b> Writing semantic, readable, and highly maintainable systems.</li>
+          <li>🔒 <b>Security-First:</b> JWT, strict CORS, password hashing, and injection protection.</li>
+          <li>📦 <b>Modularity:</b> Decoupled services and reusable frontend components.</li>
+          <li>⚡ <b>Performance:</b> Database query tuning, fast loading times, and API responsiveness.</li>
+        </ul>
+      </details>
+    </td>
+  </tr>
+</table>
 
-<details>
-  <summary><b>📐 My Coding Setup & Tools (Click to Expand)</b></summary>
-  <br>
-  <ul>
-    <li>💻 <b>OS:</b> Windows 11 / WSL2 (Ubuntu)</li>
-    <li>📝 <b>Editor:</b> VS Code (Theme: Tokyo Night / Font: Fira Code)</li>
-    <li>🔧 <b>Terminal:</b> PowerShell / Git Bash custom styled</li>
-    <li>🚀 <b>Hosting:</b> Vercel, Netlify, Render, AWS</li>
-    <li>⚡ <b>API Testing:</b> Postman / Thunder Client</li>
-  </ul>
-</details>
-
-<details>
-  <summary><b>💡 My Software Principles (Click to Expand)</b></summary>
-  <br>
-  <ul>
-    <li>🧹 <b>Clean & Readable Code:</b> Write code for humans first, computers second.</li>
-    <li>🔒 <b>Security First:</b> Always implement secure JWT practices, sanitation, and server protection.</li>
-    <li>📦 <b>Modularity:</b> Keep components small, decoupled, and reusable.</li>
-    <li>⚡ <b>Performance:</b> Optimized db indexing, asset compression, and clean API endpoints.</li>
-  </ul>
-</details>
-
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a68da5cb0.gif" width="100%" height="8px">
+</p>
 
 ## 🚀 Featured Projects
 
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <div align="center">
-        <h3>🏡 Real Estate Elite</h3>
+      <div align="center" style="border: 1px solid #1a2980; border-radius: 8px; padding: 15px; background: rgba(26, 41, 128, 0.05);">
+        <h3>📱 Web-to-APK Compiler</h3>
         <p>
-          <img src="https://img.shields.io/badge/Role-FullStack-26d0ce?style=flat-square" />
-          <img src="https://img.shields.io/badge/Database-MongoDB-green?style=flat-square" />
+          <img src="https://img.shields.io/badge/Type-Tool-26d0ce?style=flat-square" />
+          <img src="https://img.shields.io/badge/Stack-Node--Android-orange?style=flat-square" />
         </p>
-        <p align="left">A full-stack property listing & management platform. Features robust authentication, secure Cloudinary image uploads, dynamic filtering, and a modern responsive interface.</p>
-        <a href="https://real-estateelite.vercel.app/" target="_blank"><b>Live Demo 🌐</b></a>
+        <p align="left">A modern, high-performance Android WebView template and on-demand Node.js web compiler that builds native Android APKs dynamically from responsive websites.</p>
+        <br>
+        <a href="https://huggingface.co/spaces/tsheikh77/web-to-apk-compiler" target="_blank"><b>Live Demo 🌐</b></a>
       </div>
     </td>
     <td width="50%" valign="top">
-      <div align="center">
+      <div align="center" style="border: 1px solid #1a2980; border-radius: 8px; padding: 15px; background: rgba(26, 41, 128, 0.05);">
+        <h3>🚗 ParkFlow SaaS</h3>
+        <p>
+          <img src="https://img.shields.io/badge/Type-SaaS-26d0ce?style=flat-square" />
+          <img src="https://img.shields.io/badge/Stack-MERN--PWA-blue?style=flat-square" />
+        </p>
+        <p align="left">Multi-tenant enterprise parking system featuring real-time socket.io alerts, PWA offline capabilities, advanced Recharts analytics, and touch-optimized operator booths.</p>
+        <br>
+        <a href="https://park-flow-saas.vercel.app/" target="_blank"><b>Live Demo 🌐</b></a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center" style="border: 1px solid #1a2980; border-radius: 8px; padding: 15px; background: rgba(26, 41, 128, 0.05);">
+        <h3>🔒 SafeDrop AI</h3>
+        <p>
+          <img src="https://img.shields.io/badge/Type-SaaS-26d0ce?style=flat-square" />
+          <img src="https://img.shields.io/badge/Security-QR%20Crypto-red?style=flat-square" />
+        </p>
+        <p align="left">Luggage and locker management platform with multi-tenant branch routing, crypto-secure QR token validation, background SMS alerts, and Razorpay integration.</p>
+        <br>
+        <a href="https://safedrop-ai.vercel.app/" target="_blank"><b>Live Demo 🌐</b></a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center" style="border: 1px solid #1a2980; border-radius: 8px; padding: 15px; background: rgba(26, 41, 128, 0.05);">
+        <h3>🏡 Real Estate Elite</h3>
+        <p>
+          <img src="https://img.shields.io/badge/Type-Web--App-26d0ce?style=flat-square" />
+          <img src="https://img.shields.io/badge/Media-Cloudinary-green?style=flat-square" />
+        </p>
+        <p align="left">A full-stack property listing & management platform. Features robust authentication, secure Cloudinary image uploads, dynamic filtering, and a modern responsive interface.</p>
+        <br>
+        <a href="https://real-estateelite.vercel.app/" target="_blank"><b>Live Demo 🌐</b></a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center" style="border: 1px solid #1a2980; border-radius: 8px; padding: 15px; background: rgba(26, 41, 128, 0.05);">
         <h3>📊 Trade Analyzer Pro</h3>
         <p>
-          <img src="https://img.shields.io/badge/Role-FullStack-26d0ce?style=flat-square" />
+          <img src="https://img.shields.io/badge/Type-Dashboard-26d0ce?style=flat-square" />
           <img src="https://img.shields.io/badge/Frontend-React-blue?style=flat-square" />
         </p>
         <p align="left">Trading analytics and performance dashboard. Tracks user performance metrics, generates analytical insights, and visualizes historical trades for better decision-making.</p>
+        <br>
         <a href="https://trade-analyzer-proo.vercel.app/" target="_blank"><b>Live Demo 🌐</b></a>
+      </div>
+    </td>
+    <td width="50%" valign="middle" align="center">
+      <div align="center" style="border: 1px dashed #26d0ce; border-radius: 8px; padding: 20px;">
+        <h4>📂 Discover More Projects</h4>
+        <p>Explore all repository source codes and open-source contributions directly on my profile!</p>
+        <br>
+        <a href="https://github.com/mdtanveer0786?tab=repositories" target="_blank"><b>View All Repositories ➡️</b></a>
       </div>
     </td>
   </tr>
 </table>
 
-<!-- Option to display dynamic project cards instead of the table above (uncomment if desired) -->
-<!--
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdtanveer0786&repo=real-estate-app-fixed&theme=tokyonight&title_color=26d0ce&icon_color=00F7FF&bg_color=0d1117" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdtanveer0786&repo=trade-analyzer-pro&theme=tokyonight&title_color=26d0ce&icon_color=00F7FF&bg_color=0d1117" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a68da5cb0.gif" width="100%" height="8px">
 </p>
--->
-
----
 
 ## 🏆 Achievements & Learning Goals
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>🏆 Achievements</h4>
+      <h4>🏆 Key Achievements</h4>
       <ul>
         <li>🚀 Built multiple production-grade full stack SaaS web apps.</li>
         <li>🔑 Implemented JWT-based authorization and security protocols.</li>
@@ -165,7 +228,9 @@
   </tr>
 </table>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a68da5cb0.gif" width="100%" height="8px">
+</p>
 
 ## 📊 GitHub Stats & Insights
 
@@ -180,10 +245,13 @@
   </tr>
   <tr>
     <td align="center" colspan="2">
+      <br>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdtanveer0786&theme=tokyonight&background=0d1117&ring=26d0ce&fire=00F7FF&currStreakNum=ffffff" width="100%"/>
     </td>
   </tr>
 </table>
+
+<br>
 
 <h3 align="center">📈 Activity Graph</h3>
 <p align="center">
@@ -201,10 +269,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mdtanveer0786&label=Profile%20views&color=26d0ce&style=flat" alt="Profile Views"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a68da5cb0.gif" width="100%" height="8px">
 </p>
-
----
 
 ## 🌐 Connect With Me
 
