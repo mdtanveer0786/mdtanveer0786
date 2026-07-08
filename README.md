@@ -1,331 +1,284 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,50:26d0ce,100:1a2980&height=220&section=header&text=Md%20Tanveer%20Alam&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e004f,50:6610f2,100:2e004f&height=220&section=header&text=Md%20Tanveer%20Alam&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/mdtanveer0786?label=FOLLOWERS&style=for-the-badge&color=26d0ce&labelColor=1a2980" />
-  &nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=mdtanveer0786&label=PROFILE%20VIEWS&color=26d0ce&style=for-the-badge&labelColor=1a2980" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/DEVELOPER-MERN%20STACK-26d0ce?style=for-the-badge&labelColor=1a2980" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=c084fc&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Engineer;MERN+Stack+Expert;Building+Scalable+SaaS;AI-Web+Integration;Open+Source+Contributor"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=26d0ce&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Expert;Building+SaaS+Projects;Open+Source+Contributor;AI+Enthusiast"/>
+  <img src="https://img.shields.io/badge/🎓_B.Tech-Computer_Science-6610f2?style=for-the-badge&labelColor=2e004f" alt="Education" />
+  <img src="https://img.shields.io/badge/📍_Location-India-6610f2?style=for-the-badge&labelColor=2e004f" alt="Location" />
+  <a href="https://mdtanveeralamdev.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit-6610f2?style=for-the-badge&labelColor=2e004f" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/md-tanveer-alam-b7a134219/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-6610f2?style=for-the-badge&logo=linkedin&labelColor=2e004f" alt="LinkedIn" /></a>
+  <a href="mailto:mdtanveerdev14@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-6610f2?style=for-the-badge&logo=gmail&labelColor=2e004f" alt="Email" /></a>
 </p>
 
 <p align="center">
-  <a href="#about-me"><b>About Me</b></a> • 
-  <a href="#tech-stack"><b>Tech Stack</b></a> • 
-  <a href="#featured-projects"><b>Featured Projects</b></a> • 
-  <a href="#github-stats"><b>GitHub Insights</b></a> • 
-  <a href="#connect"><b>Connect</b></a>
-</p>
-
-<p align="center">
-  <a href="https://mdtanveeralamdev.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-black?style=for-the-badge&logo=vercel&logoColor=26d0ce">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a68da5cb0.gif" width="100%" height="8px">
-</p>
-
-<a name="about-me"></a>
-## 👨‍💻 About Me
-
-<table width="100%" border="0" cellpadding="10">
-  <tr>
-    <td width="55%" valign="top">
-      <p>Hey there! 👋 I am a passionate <b>Full Stack MERN Developer</b> specializing in creating robust, scalable, and high-performance web applications. With a strong foundation in system design and database security, I focus on turning complex challenges into seamless digital experiences.</p>
-      <ul>
-        <li>💡 <b>Interests:</b> Scalable Backend Architecture, System Design & AI-Web Integration</li>
-        <li>📫 <b>Get in Touch:</b> <a href="mailto:mdtanveerdev14@gmail.com">mdtanveerdev14@gmail.com</a></li>
-        <li>🎓 <b>Background:</b> B.Tech in Computer Science & Engineering</li>
-        <li>🔥 <b>Current Focus:</b> Master SaaS Architecture and Integration of AI Agents</li>
-      </ul>
-    </td>
-    <td width="45%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="280" style="border-radius: 12px; border: 3px solid #26d0ce; box-shadow: 0px 4px 15px rgba(38, 208, 206, 0.4);"/>
-      <br>
-      <sub>💻 <i>Turning ideas into scalable solutions</i></sub>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a68da5cb0.gif" width="100%" height="8px">
-</p>
-
-<a name="tech-stack"></a>
-## 🧠 Tech Stack & Skills
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="25%" valign="top" style="border: 1px solid #1a2980; border-radius: 8px; padding: 10px;">
-      <h4>🎨 Frontend</h4>
-      <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
-      <p><sub>Responsive UI/UX, Component design</sub></p>
-    </td>
-    <td align="center" width="25%" valign="top" style="border: 1px solid #1a2980; border-radius: 8px; padding: 10px;">
-      <h4>⚙️ Backend & API</h4>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
-      <p><sub>RESTful APIs, JWT, Middleware routing</sub></p>
-    </td>
-    <td align="center" width="25%" valign="top" style="border: 1px solid #1a2980; border-radius: 8px; padding: 10px;">
-      <h4>🗄️ Database</h4>
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-      <p><sub>Schemas, Query optimization, Indexing</sub></p>
-    </td>
-    <td align="center" width="25%" valign="top" style="border: 1px solid #1a2980; border-radius: 8px; padding: 10px;">
-      <h4>🛠️ Tools & DevOps</h4>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-      <p><sub>Version control, Dev environments</sub></p>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<table width="100%">
-  <tr>
-    <td>
-      <details>
-        <summary><b>📐 Coding Setup & Gear Details (Click to Expand)</b></summary>
-        <br>
-        <ul>
-          <li>💻 <b>OS:</b> Windows 11 / WSL2 (Ubuntu Linux)</li>
-          <li>📝 <b>Editor:</b> VS Code (Tokyo Night Theme / Fira Code Font)</li>
-          <li>🔧 <b>Terminal:</b> PowerShell / Git Bash Custom Configurations</li>
-          <li>🚀 <b>Hosting/Cloud:</b> Vercel, Netlify, Render, Cloudinary</li>
-          <li>⚡ <b>API Testing:</b> Postman & Thunder Client</li>
-        </ul>
-      </details>
-    </td>
-    <td>
-      <details>
-        <summary><b>💡 Core Software Principles (Click to Expand)</b></summary>
-        <br>
-        <ul>
-          <li>🧹 <b>Clean Code:</b> Writing semantic, readable, and highly maintainable systems.</li>
-          <li>🔒 <b>Security-First:</b> JWT, strict CORS, password hashing, and injection protection.</li>
-          <li>📦 <b>Modularity:</b> Decoupled services and reusable frontend components.</li>
-          <li>⚡ <b>Performance:</b> Database query tuning, fast loading times, and API responsiveness.</li>
-        </ul>
-      </details>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a68da5cb0.gif" width="100%" height="8px">
-</p>
-
-<a name="featured-projects"></a>
-## 🚀 Featured Projects
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <div align="center" style="border: 1px solid #1a2980; border-radius: 8px; padding: 15px; background: rgba(26, 41, 128, 0.05);">
-        <h3>📱 Web-to-APK Compiler</h3>
-        <p>
-          <img src="https://img.shields.io/badge/Type-Tool-26d0ce?style=flat-square" />
-          <img src="https://img.shields.io/badge/Stack-Node--Android-orange?style=flat-square" />
-        </p>
-        <p align="left">A modern, high-performance Android WebView template and on-demand Node.js web compiler that builds native Android APKs dynamically from responsive websites.</p>
-        <br>
-        <a href="https://huggingface.co/spaces/tsheikh77/web-to-apk-compiler" target="_blank"><b>Live Demo 🌐</b></a>&nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/mdtanveer0786/web-to-apk" target="_blank"><b>Source Code 📂</b></a>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center" style="border: 1px solid #1a2980; border-radius: 8px; padding: 15px; background: rgba(26, 41, 128, 0.05);">
-        <h3>🚗 ParkFlow SaaS</h3>
-        <p>
-          <img src="https://img.shields.io/badge/Type-SaaS-26d0ce?style=flat-square" />
-          <img src="https://img.shields.io/badge/Stack-MERN--PWA-blue?style=flat-square" />
-        </p>
-        <p align="left">Multi-tenant enterprise parking system featuring real-time socket.io alerts, PWA offline capabilities, advanced Recharts analytics, and touch-optimized operator booths.</p>
-        <br>
-        <a href="https://park-flow-saas.vercel.app/" target="_blank"><b>Live Demo 🌐</b></a>&nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/mdtanveer0786/ParkFlow_SaaS" target="_blank"><b>Source Code 📂</b></a>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <div align="center" style="border: 1px solid #1a2980; border-radius: 8px; padding: 15px; background: rgba(26, 41, 128, 0.05);">
-        <h3>🔒 SafeDrop AI</h3>
-        <p>
-          <img src="https://img.shields.io/badge/Type-SaaS-26d0ce?style=flat-square" />
-          <img src="https://img.shields.io/badge/Security-QR%20Crypto-red?style=flat-square" />
-        </p>
-        <p align="left">Luggage and locker management platform with multi-tenant branch routing, crypto-secure QR token validation, background SMS alerts, and Razorpay integration.</p>
-        <br>
-        <a href="https://safedrop-ai.vercel.app/" target="_blank"><b>Live Demo 🌐</b></a>&nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/mdtanveer0786/SafeDrop_AI" target="_blank"><b>Source Code 📂</b></a>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center" style="border: 1px solid #1a2980; border-radius: 8px; padding: 15px; background: rgba(26, 41, 128, 0.05);">
-        <h3>🏡 Real Estate Elite</h3>
-        <p>
-          <img src="https://img.shields.io/badge/Type-Web--App-26d0ce?style=flat-square" />
-          <img src="https://img.shields.io/badge/Media-Cloudinary-green?style=flat-square" />
-        </p>
-        <p align="left">A full-stack property listing & management platform. Features robust authentication, secure Cloudinary image uploads, dynamic filtering, and a modern responsive interface.</p>
-        <br>
-        <a href="https://real-estateelite.vercel.app/" target="_blank"><b>Live Demo 🌐</b></a>&nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/mdtanveer0786/real-estate-app-fixed" target="_blank"><b>Source Code 📂</b></a>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <div align="center" style="border: 1px solid #1a2980; border-radius: 8px; padding: 15px; background: rgba(26, 41, 128, 0.05);">
-        <h3>📊 Trade Analyzer Pro</h3>
-        <p>
-          <img src="https://img.shields.io/badge/Type-Dashboard-26d0ce?style=flat-square" />
-          <img src="https://img.shields.io/badge/Frontend-React-blue?style=flat-square" />
-        </p>
-        <p align="left">Trading analytics and performance dashboard. Tracks user performance metrics, generates analytical insights, and visualizes historical trades for better decision-making.</p>
-        <br>
-        <a href="https://trade-analyzer-proo.vercel.app/" target="_blank"><b>Live Demo 🌐</b></a>&nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/mdtanveer0786/trade-analyzer-pro" target="_blank"><b>Source Code 📂</b></a>
-      </div>
-    </td>
-    <td width="50%" valign="middle" align="center">
-      <div align="center" style="border: 1px dashed #26d0ce; border-radius: 8px; padding: 20px;">
-        <h4>📂 Discover More Projects</h4>
-        <p>Explore all repository source codes and open-source contributions directly on my profile!</p>
-        <br>
-        <a href="https://github.com/mdtanveer0786?tab=repositories" target="_blank"><b>View All Repositories ➡️</b></a>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a68da5cb0.gif" width="100%" height="8px">
-</p>
-
-## 🏆 Achievements & Learning Goals
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🏆 Key Achievements</h4>
-      <ul>
-        <li>🚀 Built multiple production-grade full stack SaaS web apps.</li>
-        <li>🔑 Implemented JWT-based authorization and security protocols.</li>
-        <li>☁️ Automated deployments & cloud asset management (Cloudinary, Vercel).</li>
-        <li>📦 Engineered clean, reusable REST API structures.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🎯 2026 Goals & Learning</h4>
-      <ul>
-        <li>🏗️ <b>System Design:</b> Master Scalable & Distributed Systems.</li>
-        <li>🤖 <b>AI Integration:</b> Build web apps powered by AI & LLM APIs.</li>
-        <li>💼 <b>Freelancing:</b> Establish a global remote presence.</li>
-        <li>📦 <b>SaaS Products:</b> Launch 5 micro-SaaS products.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a68da5cb0.gif" width="100%" height="8px">
-</p>
-
-<a name="github-stats"></a>
-## 📊 GitHub Stats & Insights
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=mdtanveer0786&show_icons=true&theme=tokyonight&title_color=26d0ce&icon_color=00F7FF&text_color=ffffff&bg_color=0d1117" width="100%"/>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdtanveer0786&layout=compact&theme=tokyonight&title_color=26d0ce&icon_color=00F7FF&text_color=ffffff&bg_color=0d1117" width="100%"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <br>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdtanveer0786&theme=tokyonight&background=0d1117&ring=26d0ce&fire=00F7FF&currStreakNum=ffffff" width="100%"/>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<h3 align="center">📈 Activity Graph</h3>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdtanveer0786&theme=react-dark" width="95%"/>
-</p>
-
-<h3 align="center">🏆 GitHub Trophies</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mdtanveer0786&theme=algolia" width="95%"/>
-</p>
-
-<h3 align="center">🐍 Contribution Snake</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mdtanveer0786/mdtanveer0786/output/snake.svg" width="95%"/>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a68da5cb0.gif" width="100%" height="8px">
-</p>
-
-<a name="connect"></a>
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/md-tanveer-alam-b7a134219/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/_sheikh_tanveer77/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:mdtanveerdev14@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://mdtanveeralamdev.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-🌐-0052FF?style=for-the-badge&logoColor=white"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=mdtanveer0786&label=PROFILE%20VIEWS&color=6610f2&style=for-the-badge&labelColor=2e004f" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/mdtanveer0786?label=FOLLOWERS&style=for-the-badge&color=6610f2&labelColor=2e004f" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/mdtanveer0786?label=TOTAL%20STARS&style=for-the-badge&color=6610f2&labelColor=2e004f" alt="Stars" />
 </p>
 
 ---
 
-## ❤️ Support
+## 👨‍💻 About
 
-If you like my work, consider giving a ⭐ to my repositories or supporting me!
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/mdtanveer0786" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="180"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=26d0ce&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Keep+Building+🚀;Keep+Growing+💡"/>
-</p>
+I am a **Full Stack Software Engineer** specializing in designing and developing highly scalable, secure, and performant web applications and enterprise SaaS products. With a product engineering mindset, I focus on delivering end-to-end solutions that solve complex, real-world problems. My core expertise lies in the MERN ecosystem, distributed backend architecture, and integrating AI capabilities into modern web platforms.
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" style="border: 2px solid #26d0ce; border-radius: 12px; padding: 20px; background: #0d1117;">
-      <h3 style="color: #26d0ce; margin-top: 0; margin-bottom: 10px;">💡 Developer Quote</h3>
-      <p style="font-size: 16px; font-style: italic; color: #ffffff; margin-bottom: 10px;">
-        "First, solve the problem. Then, write the code."
-      </p>
-      <p style="color: #a0aec0; margin-bottom: 0;"><b>— Developer Wisdom</b></p>
+    <td align="center" width="25%"><b>🚀 Full Stack Development</b></td>
+    <td align="center" width="25%"><b>🧠 AI-Web Integration</b></td>
+    <td align="center" width="25%"><b>⚙️ System Design</b></td>
+    <td align="center" width="25%"><b>🛡️ Secure Architecture</b></td>
+  </tr>
+</table>
+
+**Open To:** Full-time Software Engineering roles | Backend/Full Stack opportunities | Open Source Collaborations
+
+---
+
+## 🛠️ Tech Stack
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="25%" valign="top">
+      <h4>💻 Languages</h4>
+      <img src="https://skillicons.dev/icons?i=js,ts,php,java" />
+    </td>
+    <td align="center" width="25%" valign="top">
+      <h4>🎨 Frontend</h4>
+      <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
+    </td>
+    <td align="center" width="25%" valign="top">
+      <h4>⚙️ Backend & DB</h4>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+    </td>
+    <td align="center" width="25%" valign="top">
+      <h4>☁️ DevOps & Tools</h4>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
     </td>
   </tr>
 </table>
+
+---
+
+## 🧠 AI / ML & Engineering Expertise
+
+| Domain | Proficiency | Details |
+| :--- | :--- | :--- |
+| **AI-Web Integration** | Advanced | Integrating LLMs, autonomous agents, and AI endpoints into production SaaS products. |
+| **System Architecture** | Advanced | Designing scalable multi-tenant databases, microservices, and event-driven architectures. |
+| **Real-time Systems** | Advanced | Implementing robust WebSocket (Socket.io) solutions for instant data synchronization. |
+| **Progressive Web Apps**| Intermediate | Engineering offline-first applications with caching strategies (Workbox, Service Workers). |
+
+---
+
+## 🚀 Featured Projects
+
+<details>
+<summary><b>📱 Web-to-APK Compiler</b></summary>
+<br>
+A high-performance Android WebView template and on-demand Node.js web compiler that builds native Android APKs dynamically from responsive websites.
+
+| Metric | Details |
+| :--- | :--- |
+| **Stack** | Node.js, Express, Android SDK, Java, Gradle, Docker |
+| **Scale** | Handles on-demand dynamic containerized builds |
+| **Performance** | Optimized Gradle wrapper execution within isolated Docker environments |
+| **Security** | Secure subprocess execution and file handling |
+| **Impact** | Automates native app generation, drastically reducing mobile porting time |
+| **Repository** | [View Source Code](https://github.com/mdtanveer0786/web-to-apk) \| [Live Demo](https://huggingface.co/spaces/tsheikh77/web-to-apk-compiler) |
+
+*Professional Explanation:* Architected a compiler backend that dynamically provisions Docker containers to execute Gradle builds, bridging the gap between web applications and native Android hardware efficiently.
+</details>
+
+<details>
+<summary><b>🚗 ParkFlow SaaS</b></summary>
+<br>
+Enterprise multi-tenant parking system featuring real-time socket.io alerts, PWA offline capabilities, advanced Recharts analytics, and touch-optimized operator booths.
+
+| Metric | Details |
+| :--- | :--- |
+| **Stack** | React 19, Node.js, Express, MongoDB, Socket.io, Vite-PWA |
+| **Scale** | Multi-tenant architecture supporting numerous concurrent enterprise branches |
+| **Performance** | Instant real-time UI synchronization without page reloads |
+| **Security** | JWT authentication, role-based access control, strict API rate limiting |
+| **Impact** | Ensures continuous operations in zero-connectivity parking basements via offline PWA caching |
+| **Repository** | [View Source Code](https://github.com/mdtanveer0786/ParkFlow_SaaS) \| [Live Demo](https://park-flow-saas.vercel.app/) |
+
+*Professional Explanation:* Engineered an offline-first progressive web application with a Socket.io event-driven backend to maintain critical operations in environments with poor network reliability.
+</details>
+
+<details>
+<summary><b>🔒 SafeDrop AI</b></summary>
+<br>
+Luggage and locker management platform with multi-tenant branch routing, crypto-secure QR token validation, background SMS alerts, and Razorpay integration.
+
+| Metric | Details |
+| :--- | :--- |
+| **Stack** | React, Node.js, MongoDB, Razorpay API, Twilio/Messaging APIs |
+| **Scale** | Designed for high-traffic transit hubs and malls |
+| **Performance** | Asynchronous background worker queues for notification delivery |
+| **Security** | 6-digit cryptographic verification tokens, NoSQL injection prevention |
+| **Impact** | Automates secure luggage handling and digital billing, eliminating paper logs |
+| **Repository** | [View Source Code](https://github.com/mdtanveer0786/SafeDrop_AI) \| [Live Demo](https://safedrop-ai.vercel.app/) |
+
+*Professional Explanation:* Developed a highly secure, automated booking system leveraging cryptographic token generation for absolute verification and isolated data scoping for multi-tenant organizational security.
+</details>
+
+<details>
+<summary><b>🏡 Real Estate Elite</b></summary>
+<br>
+A full-stack property listing & management platform featuring robust authentication, secure Cloudinary image uploads, dynamic filtering, and a modern responsive interface.
+
+| Metric | Details |
+| :--- | :--- |
+| **Stack** | React, Node.js, Express, MongoDB, Cloudinary |
+| **Scale** | Supports extensive property databases with complex querying |
+| **Performance** | Optimized database indexing for fast spatial and attribute filtering |
+| **Security** | Encrypted user data and secure asset storage protocols |
+| **Impact** | Streamlines property discovery and management for agents and clients |
+| **Repository** | [View Source Code](https://github.com/mdtanveer0786/real-estate-app-fixed) \| [Live Demo](https://real-estateelite.vercel.app/) |
+</details>
+
+<details>
+<summary><b>📊 Trade Analyzer Pro</b></summary>
+<br>
+Trading analytics and performance dashboard that tracks user metrics, generates analytical insights, and visualizes historical trades.
+
+| Metric | Details |
+| :--- | :--- |
+| **Stack** | React, Node.js, Express, MongoDB, Recharts |
+| **Scale** | Handles vast arrays of historical time-series trade data |
+| **Performance** | Efficient data aggregation and responsive client-side chart rendering |
+| **Security** | Secure session management for financial data privacy |
+| **Impact** | Empowers traders with data-driven insights and performance visualization |
+| **Repository** | [View Source Code](https://github.com/mdtanveer0786/trade-analyzer-pro) \| [Live Demo](https://trade-analyzer-proo.vercel.app/) |
+</details>
+
+---
+
+## 💼 Experience
+
+**Full Stack Software Engineer (Freelance / Open Source)**
+*Independent Projects & Community Contributions*
+*2023 - Present*
+
+* Architected and deployed 5+ production-grade SaaS applications focusing on multi-tenancy, real-time data synchronization, and secure transaction processing.
+* Engineered an on-demand Dockerized Node.js compiler reducing web-to-native Android conversion overhead.
+* Implemented offline-first Progressive Web App (PWA) strategies using Service Workers and NetworkFirst caching to ensure system reliability in low-connectivity environments.
+* Designed and integrated secure cryptographic validation algorithms and real-time WebSocket event architectures for enterprise systems.
+
+`Node.js` `React` `System Architecture` `Docker` `WebSockets` `MongoDB`
+
+---
+
+## 🏆 Achievements
+
+| Recognition | Details |
+| :--- | :--- |
+| **Production SaaS Deployments** | Successfully designed, built, and launched multiple scalable SaaS platforms handling real-world operations. |
+| **Security Implementation** | Integrated advanced JWT authorization, cryptographic QR tokens, and protection against injection attacks. |
+| **Cloud Infrastructure** | Automated deployment pipelines and managed cloud assets via Vercel, Render, and Cloudinary. |
+| **API Engineering** | Engineered clean, modular, and highly reusable RESTful API structures. |
+
+---
+
+## 📜 Certifications & Credentials
+
+*   <img src="https://img.shields.io/badge/Degree-B.Tech_Computer_Science-6610f2?style=flat-square&labelColor=2e004f" alt="Degree" />
+*   *(Additional industry certifications to be updated)*
+
+---
+
+## 🧑‍💻 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/u/mdtanveer0786/"><img src="https://img.shields.io/badge/LeetCode-Profile-6610f2?style=for-the-badge&logo=leetcode&labelColor=2e004f" alt="LeetCode" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-6610f2?style=for-the-badge&logo=geeksforgeeks&labelColor=2e004f" alt="GeeksforGeeks" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/HackerRank-Profile-6610f2?style=for-the-badge&logo=hackerrank&labelColor=2e004f" alt="HackerRank" /></a>
+</p>
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdtanveer0786&show_icons=true&bg_color=0d1117&title_color=c084fc&text_color=e2e8f0&icon_color=a855f7&border_color=2e004f&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdtanveer0786&layout=compact&bg_color=0d1117&title_color=c084fc&text_color=e2e8f0&icon_color=a855f7&border_color=2e004f&hide_border=false" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdtanveer0786&background=0d1117&ring=c084fc&fire=a855f7&currStreakNum=e2e8f0&currStreakLabel=a855f7&sideNums=e2e8f0&sideLabels=a855f7&dates=e2e8f0&border=2e004f" width="100%" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mdtanveer0786&theme=radical&margin-w=15&margin-h=15&no-bg=true" />
+</p>
+
+---
+
+## 📊 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdtanveer0786&bg_color=0d1117&color=c084fc&line=a855f7&point=e2e8f0&area=true&hide_border=false&border_color=2e004f" width="100%" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mdtanveer0786/mdtanveer0786/output/snake.svg" alt="GitHub Contribution Snake" width="100%" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+```yaml
+Current_Status:
+  Learning: 
+    - Advanced Distributed Systems
+    - AI Agent Workflows
+  Building: 
+    - Micro-SaaS Products
+    - AI-integrated Web Platforms
+  Exploring: 
+    - Scalable Cloud Architecture
+  Open_To: 
+    - Full-time Software Engineering Roles
+    - Remote Opportunities
+```
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:mdtanveerdev14@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact_Me-6610f2?style=for-the-badge&logo=gmail&labelColor=2e004f" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/md-tanveer-alam-b7a134219/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-6610f2?style=for-the-badge&logo=linkedin&labelColor=2e004f" alt="LinkedIn" /></a>
+  <a href="https://github.com/mdtanveer0786"><img src="https://img.shields.io/badge/GitHub-Follow-6610f2?style=for-the-badge&logo=github&labelColor=2e004f" alt="GitHub" /></a>
+  <a href="https://mdtanveeralamdev.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-6610f2?style=for-the-badge&logo=vercel&labelColor=2e004f" alt="Portfolio" /></a>
+</p>
+
+---
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" style="border: 1px solid #6610f2; border-radius: 8px; padding: 15px; background: #0d1117;">
+      <p style="font-size: 16px; font-style: italic; color: #e2e8f0; margin-bottom: 0;">
+        "First, solve the problem. Then, write the code." — Developer Wisdom
+      </p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e004f,50:6610f2,100:2e004f&height=100&section=footer"/>
+</p>
