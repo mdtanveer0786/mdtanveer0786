@@ -106,7 +106,7 @@ Enterprise multi-tenant parking system featuring real-time socket.io alerts, PWA
 | **Performance** | Instant real-time UI synchronization without page reloads |
 | **Security** | JWT authentication, role-based access control, strict API rate limiting |
 | **Impact** | Ensures continuous operations in zero-connectivity parking basements via offline PWA caching |
-| **Repository** | [View Source Code](https://github.com/mdtanveer0786/ParkFlow_SaaS) \| [Live Demo](https://park-flow-saas.vercel.app/) |
+| **Repository** | [View Source Code](https://github.com/mdtanveer0786/ParkFlow_SaaS) \| [Live Demo](https://parkflow.parknpass.com/) |
 
 *Professional Explanation:* Engineered an offline-first progressive web application with a Socket.io event-driven backend to maintain critical operations in environments with poor network reliability.
 </details>
@@ -123,7 +123,7 @@ Luggage and locker management platform with multi-tenant branch routing, crypto-
 | **Performance** | Asynchronous background worker queues for notification delivery |
 | **Security** | 6-digit cryptographic verification tokens, NoSQL injection prevention |
 | **Impact** | Automates secure luggage handling and digital billing, eliminating paper logs |
-| **Repository** | [View Source Code](https://github.com/mdtanveer0786/SafeDrop_AI) \| [Live Demo](https://safedrop-ai.vercel.app/) |
+| **Repository** | [View Source Code](https://github.com/mdtanveer0786/SafeDrop_AI) \| [Live Demo](https://softdrop.parknpass.com/) |
 
 *Professional Explanation:* Developed a highly secure, automated booking system leveraging cryptographic token generation for absolute verification and isolated data scoping for multi-tenant organizational security.
 </details>
