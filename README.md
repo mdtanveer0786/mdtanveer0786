@@ -78,6 +78,31 @@ I am a **Full Stack Software Engineer** specializing in designing and developing
 ## 🚀 Featured Projects
 
 <details>
+<summary><b>🤖 VGrow247 — Enterprise CRM & Business Automation Platform</b></summary>
+<br>
+
+A modern CRM platform designed to centralize customer relationship management, sales pipelines, lead tracking, team collaboration, and business workflow automation in a unified SaaS environment.
+
+| Metric              | Details                                                                                            |
+| :------------------ | :------------------------------------------------------------------------------------------------- |
+| **Stack**           | React, TypeScript, Node.js, Express, Prisma ORM, PostgreSQL                                        |
+| **Architecture**    | Multi-tenant SaaS with organization-level data isolation                                           |
+| **Core Modules**    | Leads, Contacts, Companies, Deals, Sales Pipelines, Tasks, Calendar, Reports, Team Management      |
+| **Automation**      | Configurable workflows, automated task processing, notifications, and business process automation  |
+| **AI Capabilities** | AI-assisted CRM workflows and intelligent business operations                                      |
+| **Security**        | Authentication, role-based access control (RBAC), tenant-scoped authorization, and audit logging   |
+| **Integrations**    | API-driven integration architecture for third-party business tools                                 |
+| **Use Cases**       | Sales management, customer engagement, lead conversion, team productivity, and business automation |
+| **Live Platform**   | [Visit VGrow247](https://us.vgrow247.com/)                                                         |
+
+**Professional Explanation:**
+
+Developing VGrow247, a multi-tenant CRM SaaS platform that unifies customer relationship management, sales pipeline tracking, team collaboration, and business process automation. The platform focuses on modular architecture, configurable workflows, secure tenant isolation, and AI-assisted operations to help businesses manage their customer lifecycle more efficiently.
+
+</details>
+
+
+<details>
 <summary><b>📱 Web-to-APK Compiler</b></summary>
 <br>
 A high-performance Android WebView template and on-demand Node.js web compiler that builds native Android APKs dynamically from responsive websites.
